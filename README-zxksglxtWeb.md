@@ -4,7 +4,7 @@
 ### 数据库：SQL SERVER 2008 R2
 ### 主要功能：维护题库、维护试卷、维护用户、分配考生考试
 ### 用户角色：考生、管理员
-
+### [购买链接](https://m.tb.cn/h.U9KsLDq?tk=w8Cidf5XXa8)
 ### 主要截图如下
 ![](https://github.com/zzia615/zxksglxtWeb221230/blob/master/%E6%88%AA%E5%9B%BE/1.png)
 ![](https://github.com/zzia615/zxksglxtWeb221230/blob/master/%E6%88%AA%E5%9B%BE/2.png)
